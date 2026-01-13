@@ -1,6 +1,4 @@
-VERSION=1.0
+⚠️ New Update Available!
 
-New Update Available!
-
-Version 1.0 has been released.
-Please update to continue using Team X Corporation.
+Team X Corporation has a new version!
+Click "Update" to download and install the latest version.

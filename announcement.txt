@@ -1,4 +1,4 @@
-SHOW=NO
-TITLE=📢 Important Update
-MSG=New version released!
-Please update to continue using Team X Corp.
+⚠️ New Update Available!
+
+A new version has been released.
+Please update to continue using Team X Corporation.

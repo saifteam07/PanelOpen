@@ -1,6 +1,6 @@
-VERSION=2.0
+VERSION=1.0
 
 New Update Available!
 
-Version 2.0 has been released.
+Version 1.0 has been released.
 Please update to continue using Team X Corporation.

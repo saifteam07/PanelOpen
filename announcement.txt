@@ -1,6 +1,6 @@
 VERSION=1.7
 
-⚠️ New Update Available!
+New Update Available!
 
 Version 1.7 has been released.
 Please update to continue using Team X Corporation.

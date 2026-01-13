@@ -1,2 +1,2 @@
 ON
-New Update Available! Team X Corporation has a new version! Click "Update" to download and install the latest version.
+New Update Available! Click "Update" to download and install the latest version.

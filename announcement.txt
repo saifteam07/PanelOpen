@@ -1,6 +1,6 @@
-VERSION=1.5
+VERSION=1.8
 
 ⚠️ New Update Available!
 
-Version 1.5 has been released.
+Version 1.8 has been released.
 Please update to continue using Team X Corporation.

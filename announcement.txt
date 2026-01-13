@@ -1,4 +1,4 @@
-SHOW=YES
+SHOW=NO
 TITLE=📢 Important Update
 MSG=New version released!
 Please update to continue using Team X Corp.
